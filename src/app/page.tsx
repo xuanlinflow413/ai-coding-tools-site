@@ -57,6 +57,24 @@ const tools = [
     color: "bg-indigo-600 text-white",
     featured: false,
   },
+  {
+    slug: "ai-prd-generator",
+    name: "AI PRD Generator",
+    tagline: "Product requirements for AI builds",
+    description: "Turn feature ideas into scoped PRDs, user stories, and acceptance criteria for coding agents.",
+    icon: SparklesIcon,
+    color: "bg-cyan-600 text-white",
+    featured: false,
+  },
+  {
+    slug: "ai-product-manager",
+    name: "AI Product Manager",
+    tagline: "Product strategy for founders",
+    description: "Map search intent, prioritize MVP scope, and plan developer-tool product roadmaps.",
+    icon: CpuChipIcon,
+    color: "bg-rose-600 text-white",
+    featured: false,
+  },
 ];
 
 function CursorIcon({ className }: { className?: string }) {
