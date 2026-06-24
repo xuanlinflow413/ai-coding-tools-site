@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Best Cursor Alternatives for AI Coding in 2026",
   description:
     "Compare the best Cursor alternatives for open-source workflows, terminal coding agents, enterprise teams, and cloud app builders.",
-  alternates: { canonical: "https://aicodingtools.com/alternatives/cursor/" },
+  alternates: { canonical: "https://ai-coding-tools-site.pages.dev/alternatives/cursor/" },
 };
 
 const alternativeSlugs = ["windsurf", "claude-code", "opencode", "codex-cli", "github-copilot", "replit-agent"];

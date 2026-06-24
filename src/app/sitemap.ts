@@ -4,7 +4,7 @@ import { getAllPostSlugs, getAllToolSlugs } from "@/lib/markdown";
 export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://aicodingtools.com";
+  const baseUrl = "https://ai-coding-tools-site.pages.dev";
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: `${baseUrl}/`, priority: 1, changeFrequency: "weekly" },
     { url: `${baseUrl}/tools/`, priority: 0.9, changeFrequency: "weekly" },

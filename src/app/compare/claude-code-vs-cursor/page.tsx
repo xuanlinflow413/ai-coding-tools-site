@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Claude Code vs Cursor - Which AI Coding Tool Should You Use?",
   description:
     "Compare Claude Code and Cursor by workflow, IDE support, pricing, codebase size, privacy, and best use cases for developers and teams.",
-  alternates: { canonical: "https://aicodingtools.com/compare/claude-code-vs-cursor/" },
+  alternates: { canonical: "https://ai-coding-tools-site.pages.dev/compare/claude-code-vs-cursor/" },
 };
 
 const rows = [

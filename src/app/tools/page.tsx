@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "AI Coding Tools Directory - Compare Agents, IDEs, and CLI Tools",
   description:
     "Browse AI coding tools by IDE support, pricing, open-source status, team readiness, and best use case. Compare Claude Code, Cursor, OpenCode, Codex CLI, Windsurf, and more.",
-  alternates: { canonical: "https://aicodingtools.com/tools/" },
+  alternates: { canonical: "https://ai-coding-tools-site.pages.dev/tools/" },
 };
 
 const filters = [

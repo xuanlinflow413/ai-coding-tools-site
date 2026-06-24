@@ -39,11 +39,11 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://aicodingtools.com",
+    canonical: "https://ai-coding-tools-site.pages.dev",
     languages: {
-      "en-US": "https://aicodingtools.com",
-      "zh-CN": "https://aicodingtools.com/zh",
-      "ja-JP": "https://aicodingtools.com/ja",
+      "en-US": "https://ai-coding-tools-site.pages.dev",
+      "zh-CN": "https://ai-coding-tools-site.pages.dev/zh",
+      "ja-JP": "https://ai-coding-tools-site.pages.dev/ja",
     },
   },
 };

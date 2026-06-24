@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Compare AI Coding Tools - Agents, IDEs, Pricing, and Privacy",
   description:
     "Compare AI coding tools side by side: Claude Code, Cursor, Windsurf, OpenCode, Codex CLI, GitHub Copilot, Replit Agent, and Devin.",
-  alternates: { canonical: "https://aicodingtools.com/compare/" },
+  alternates: { canonical: "https://ai-coding-tools-site.pages.dev/compare/" },
 };
 
 export default function ComparePage() {

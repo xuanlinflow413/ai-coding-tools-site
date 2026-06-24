@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "Claude Code",
     "Cursor alternatives",
   ],
-  alternates: { canonical: "https://aicodingtools.com/ai-coding-agents/" },
+  alternates: { canonical: "https://ai-coding-tools-site.pages.dev/ai-coding-agents/" },
 };
 
 const useCases = [
