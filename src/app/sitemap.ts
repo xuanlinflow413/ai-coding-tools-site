@@ -8,8 +8,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: `${baseUrl}/`, priority: 1, changeFrequency: "weekly" },
     { url: `${baseUrl}/tools/`, priority: 0.9, changeFrequency: "weekly" },
+    { url: `${baseUrl}/ai-coding-agents/`, priority: 0.9, changeFrequency: "weekly" },
     { url: `${baseUrl}/blog/`, priority: 0.8, changeFrequency: "weekly" },
     { url: `${baseUrl}/compare/`, priority: 0.8, changeFrequency: "monthly" },
+    { url: `${baseUrl}/compare/claude-code-vs-cursor/`, priority: 0.85, changeFrequency: "monthly" },
+    { url: `${baseUrl}/alternatives/cursor/`, priority: 0.85, changeFrequency: "monthly" },
+    { url: `${baseUrl}/pricing/ai-coding-tools/`, priority: 0.85, changeFrequency: "monthly" },
   ];
 
   const toolRoutes: MetadataRoute.Sitemap = getAllToolSlugs().map((slug) => ({
